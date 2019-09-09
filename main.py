@@ -1,5 +1,5 @@
 import random
-f = open(" realdonaldtrump.txt", "r")
+f = open("Tweets.txt", "r")
 
 
 #big objective - make tweet generator
